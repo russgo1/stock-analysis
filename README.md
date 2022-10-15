@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this analysis is to help a client visualize and compare data related to a set of publicly traded equities so that he can advise his parents as to which investments will both fit into their area of interest and offer the highest likelihood of a great return on their investment. This analysis goes a step further by creating automation that allows stock data to be quickly compiled based on year. 
+The purpose of this analysis is to help a client visualize and compare data related to a set of publicly traded equities so that he can advise his parents as to which stocks will both suit their interests and offer the highest likelihood of a great return on their investment. This analysis goes a step further by creating automation that allows stock data to be quickly compiled based on year. 
 
 ## Results
 
