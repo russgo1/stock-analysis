@@ -22,7 +22,7 @@ Steve’s parents also expressed that they believe trading volume to be an indic
 ENPH traded around 220 million shares in 2017, putting it around the middle of the group for trading volume, and it returned an incredible 129.5%. In 2018, ENPH had the highest trading volume of our group, around 600 million while maintaining an impressive 81.9% return. 
 
 ##### RUN
-In 2017, RUN had a comparable trading volume to ENPH, with around 260 million shares, though it lagged in return (about 5%). In 2018, however, RUN was number 2 for trading volume (right behind ENPH) with around 500 million shared. RUN soared in 2018 to a return of 84%, the best of the group. 
+In 2017, RUN had a comparable trading volume to ENPH, with around 260 million shares, though it lagged in return (about 5%). In 2018, however, RUN was number 2 for trading volume (right behind ENPH) with around 500 million shares. RUN soared in 2018 to a return of 84%, the best of the group. 
 
 ### Conclusion
 
