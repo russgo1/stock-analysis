@@ -10,7 +10,7 @@ The purpose of this analysis is to help a client visualize and compare data rela
 
 Below are Total Daily Volumes and Return (calendar-year price performance) for the 12 stocks that Steve is examining for his parents for the years 2017 and 2018. 
 
-<img width="265" alt="Returns_2017" src="https://user-images.githubusercontent.com/114126935/195967116-7ec8dcdd-495c-45b2-9bd2-da2c3d97bf68.png">  <img width="265" alt="Returns_2018" src="https://user-images.githubusercontent.com/114126935/195967126-bd26ccaf-94e2-4aa4-980b-9acb232917eb.png">
+<img width="265" alt="Returns_2017" src="https://user-images.githubusercontent.com/114126935/195967116-7ec8dcdd-495c-45b2-9bd2-da2c3d97bf68.png">     <img width="265" alt="Returns_2018" src="https://user-images.githubusercontent.com/114126935/195967126-bd26ccaf-94e2-4aa4-980b-9acb232917eb.png">
 
 #### Return
 Thanks to our bright red and green coloring, it is obvious that 2017 saw much better performance for these stocks than did 2018. The only stocks that did better in 2018 than in 2017 were RUN and TERP, with TERP still declining in 2018, just not as badly as in 2017. The only stocks to return positively for both years were RUN and ENPH. Two wins for RUN.
@@ -37,19 +37,21 @@ These may be better suggestions for Steve’s parents, based off of the data tha
 ### Program Performance
 The original script ran the above analyses in 0.5625 seconds. 
 
-<img width="260" alt="First_Runtime_2017" src="https://user-images.githubusercontent.com/114126935/195967192-9f8e9065-f35a-4864-81f3-346ed36db057.png">. <img width="260" alt="First_Runtime_2018" src="https://user-images.githubusercontent.com/114126935/195967198-d3f543e2-2348-4f09-ae9e-923fd0081684.png">
+<img width="260" alt="First_Runtime_2017" src="https://user-images.githubusercontent.com/114126935/195967192-9f8e9065-f35a-4864-81f3-346ed36db057.png">     <img width="260" alt="First_Runtime_2018" src="https://user-images.githubusercontent.com/114126935/195967198-d3f543e2-2348-4f09-ae9e-923fd0081684.png">
 
 That’s pretty quick, but what if this were an analysis of 1,200 stocks instead of just 12? That might take an irritatingly long time. By refactoring the code, we were able to reduce the runtime to a mere 0.086 seconds (2017) and 0.082 seconds (2018). 
 
-<img width="258" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/114126935/195967157-6170b320-9337-404d-9651-5ad866437240.png">  <img width="258" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/114126935/195967158-79fd9699-5e03-4bfc-8725-4f470012e262.png">
+<img width="258" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/114126935/195967157-6170b320-9337-404d-9651-5ad866437240.png">     <img width="258" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/114126935/195967158-79fd9699-5e03-4bfc-8725-4f470012e262.png">
 
 This is a major reduction that might make a difference if Steve ever wants to increase the scope of his analysis.
 
 #### Additional Refactoring
 The directions for refactoring for this challenge inspired me to do some additional refactoring. I liked the idea of using a `For` loop to assign values to an array. I decided to use this method to assign values of `0` to the `tickerStartingPrices` and `tickerEndingPrices` arrays, as well as the `tickerVolumes` array, as specified in the directions. This had little-to-no affect on run time. Despite this, I thought it looked nicer and made the code easier to understand, so I kept it. The following screenshots show before and after. 
 
+#### Before
 <img width="312" alt="Long_Arrays" src="https://user-images.githubusercontent.com/114126935/195967232-b02d8a43-3e20-4490-af73-48b0b13f2ba4.png">
 
+#### After
 <img width="465" alt="Short_Arrays_And_Loops" src="https://user-images.githubusercontent.com/114126935/195967238-05218163-1763-4c31-aebf-c3002738e3b8.png">
 
 
