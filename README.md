@@ -39,7 +39,7 @@ The original script ran the above analyses in 0.5625 seconds.
 
 <img width="260" alt="First_Runtime_2017" src="https://user-images.githubusercontent.com/114126935/195967192-9f8e9065-f35a-4864-81f3-346ed36db057.png">     <img width="260" alt="First_Runtime_2018" src="https://user-images.githubusercontent.com/114126935/195967198-d3f543e2-2348-4f09-ae9e-923fd0081684.png">
 
-That’s pretty quick, but what if this were an analysis of 1,200 stocks instead of just 12? That might take an irritatingly long time. By refactoring the code, we were able to reduce the runtime to a mere 0.086 seconds (2017) and 0.082 seconds (2018). 
+That’s pretty quick, but what if this were an analysis of 12,000 stocks instead of just 12? That might take an irritatingly long time. By refactoring the code, we were able to reduce the runtime to a mere 0.086 seconds (2017) and 0.082 seconds (2018). 
 
 <img width="258" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/114126935/195967157-6170b320-9337-404d-9651-5ad866437240.png">     <img width="258" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/114126935/195967158-79fd9699-5e03-4bfc-8725-4f470012e262.png">
 
@@ -58,7 +58,7 @@ The directions for refactoring for this challenge inspired me to do some additio
 ## Summary
 
 ### Pros and Cons of Refactoring
-Refactoring can help to make code function better and look better. It helps to keep code clean, up-to-date, and understandable for developers who may work with it in the future. These are all positiver things. The downside is that refactoring can be time consuming. We may call to mind the old refrain, “If it’s not broken, don’t fix it.” It’s tempting to leave something be if it’s already working, but refactoring can be a good way to improve and maintain work that’s already been done. 
+Refactoring can help to make code function better and look better. It helps to keep code clean, up-to-date, and understandable for developers who may work with it in the future. These are all positiver things. The downside is that refactoring can be time consuming. We may call to mind the old refrain, “If it’s not broken, don’t fix it.” It’s tempting to leave something the way it is if it’s already working, but refactoring can be a good way to improve and maintain work that’s already been done. 
 
 ### Refactoring the Original VBA Script
-By refactoring this script, we were able to make it run much faster, which may come in handy for larger datasets. We were also able to make it more clear and understandable with both better syntax and annotation that describes to any future reader (including ourselves) what is going on. This insight can be very helpful after weeks, months, or years.  
+By refactoring this script, we were able to make it run much faster, which may come in handy for larger datasets. We were also able to make it more clear and understandable with better syntax and notes that describe to future readers (including possibly ourselves) what is going on. This insight can be very helpful after weeks, months, or years.  
