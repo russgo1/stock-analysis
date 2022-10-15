@@ -27,7 +27,7 @@ In 2017, RUN had a comparable trading volume to ENPH, with around 260 million sh
 ### Conclusion
 
 ##### DQ
-The favorite of Steve’s parents, DQ, had an astounding 2017 with a nearly 200% return, but that was with the lowest trading volume of the group, not topping a mere 36 million shares. In 2018, DQ’s trading volume increased to over 100 million shares, but its return was the worst of the group with a loss of about 62%. This did not erase the gains made in 2017, but both pieces of data together suggest that the 2017 price performance may have been overly jubilant. 
+The favorite of Steve’s parents, DQ, had an astounding 2017 with a nearly 200% return, but that was with the lowest trading volume of the group, not topping a mere 36 million shares. In 2018, DQ’s trading volume increased to over 100 million shares, but its return was the worst of the group with a loss of about 62%. This did not erase the gains made in 2017, but both pieces of data together suggest that the 2017 price performance may have been atypical and not something to expect in the future. 
 
 	
 ##### RUN and ENPH
